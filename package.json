@@ -2,7 +2,7 @@
   "name": "topo",
   "description": "Topological sorting with grouping support",
   "version": "2.0.2",
-  "repository": "git://github.com/hapijs/topo",
+  "repository": "git://github.com/matth022/topo",
   "main": "lib/index.js",
   "keywords": [
     "topological",
@@ -14,7 +14,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "hoek": "4.x.x"
+    "hoek": "git+https://github.com/matth022/hoek.git"
   },
   "devDependencies": {
     "code": "4.x.x",
